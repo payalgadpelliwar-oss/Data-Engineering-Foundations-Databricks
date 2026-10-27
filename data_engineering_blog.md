@@ -89,7 +89,7 @@ For example, an online retailer can use this workflow to identify its best-selli
 
 ### Original Diagram: The Data Engineering Pipeline
 
-![Data Engineering Pipeline](images/data_engineering_pipeline.png)
+![Data Engineering Pipeline](data_engineering_pipeline.png.png)
 
 *Diagram caption: A simplified view of how raw data moves through a data engineering pipeline to support business decisions.*
 
